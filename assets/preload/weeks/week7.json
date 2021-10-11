@@ -1,0 +1,57 @@
+{
+	"storyName": "ExpKing Songs Funny",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Genesis",
+			"expking",
+			[
+				195,
+				0,
+				0
+			]
+		],
+		[
+			"Humorous",
+			"nonsense",
+			[
+				195,
+				215,
+				255
+			]
+		],
+		[
+			"Amogussugoma",
+			"orangecrewmate",
+			[
+				255,
+				73,
+				0
+			]
+		],
+		[
+			"Melted",
+			"eteled",
+			[
+				15,
+				15,
+				15
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

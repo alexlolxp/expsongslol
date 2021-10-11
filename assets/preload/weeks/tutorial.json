@@ -1,0 +1,25 @@
+{
+	"storyName": "Singing Lessons With yo hot gf",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutorial Remix",
+			"gf",
+			[
+				255,
+				33,
+				135
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Tutorial"
+}
