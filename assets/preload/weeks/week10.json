@@ -1,0 +1,25 @@
+{
+	"storyName": "Deletion Process",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Melted",
+			"eteled",
+			[
+				21,
+				21,
+				21
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "deleteD"
+}

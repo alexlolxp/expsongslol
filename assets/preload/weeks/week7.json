@@ -1,14 +1,15 @@
 {
 	"storyName": "ExpKing Songs Funny",
-	"hideFreeplay": false,
+	"hideFreeplay": true,
 	"weekBackground": "stage",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": false,
+	"hideStoryMode": true,
 	"weekCharacters": [
 		"",
 		"bf",
@@ -25,7 +26,7 @@
 			]
 		],
 		[
-			"Humorous",
+			"Humorouses",
 			"nonsense",
 			[
 				195,
@@ -52,6 +53,5 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
 	"weekName": "Custom Week"
 }

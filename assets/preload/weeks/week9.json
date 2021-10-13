@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"amogussugoma",
+			"orangecrewmate",
+			[
+				226,
+				55,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Orange's Escapade",
+	"weekName": "Week Amogus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
