@@ -2,19 +2,13 @@
 	"storyName": "Non-Canon Humor",
 	"hideFreeplay": false,
 	"weekBackground": "nonsense",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
-	"startUnlocked": false,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"",
-		"bf",
-		"gf"
-	],
+	"startUnlocked": true,
 	"songs": [
 		[
 			"Humorous",
@@ -25,6 +19,12 @@
 				235
 			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
 	],
 	"weekName": "Week Nonsense"
 }

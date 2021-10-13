@@ -321,6 +321,8 @@ class PlayState extends MusicBeatState
 					curStage = 'school';
 				case 'thorns':
 					curStage = 'schoolEvil';
+				case 'melted':
+					curStage = 'eteled';
 				default:
 					curStage = 'stage';
 			}
@@ -625,6 +627,10 @@ class PlayState extends MusicBeatState
 					bg.antialiasing = false;
 					add(bg);
 				}
+
+				case 'eteled': //eteled stage
+				var bg:BGSprite = new BGSprite('stage/melted/glitchhallway', -600, -200, 0.9, 0.9);
+				add(bg);
 		}
 
 		if(isPixelStage) {

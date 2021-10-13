@@ -30,7 +30,7 @@ class CreditsState extends MusicBeatState
 		[''],
 		['Exp Songs Credits'],
 		['ExpKing',				'expking',			'Music/Charting/Coding Help',						'https://twitter.com/ExpKing_Real',			0xFFD10616],
-		['Oolexx',		'oolexx',	'Coding/Charting',						'https://twitter.com/oolexxfnf',	0xFFE01F32],
+		['Oolexx',		'oolexx',	'Coding/Charting',						'https://twitter.com/oolexxfnf',	0xFFff4fdf],
 		['NonsenseHumor',			'nonsense',		'Creator of Nonsense/A Nonsensical Friday Night',		'https://www.youtube.com/c/NonsenseHumorLOL',		0xFF4494E6],
 		['Clowfoe',				'clowfoe',		'Creator of Vs. Impostor',	'https://twitter.com/Clowfoe',	0xFF61536A],
 		
