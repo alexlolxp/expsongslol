@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crewmate_guy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crewmate Down0000" x="0" y="0" width="404" height="332" frameX="0" frameY="-1" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0001" x="404" y="0" width="398" height="332" frameX="-3" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0002" x="802" y="0" width="391" height="332" frameX="-6" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0003" x="1193" y="0" width="386" height="331" frameX="-8" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0004" x="1579" y="0" width="379" height="330" frameX="-11" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0005" x="1958" y="0" width="375" height="330" frameX="-12" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0006" x="2333" y="0" width="370" height="329" frameX="-14" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0007" x="2703" y="0" width="367" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0008" x="3070" y="0" width="365" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0009" x="3435" y="0" width="365" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0010" x="3435" y="0" width="365" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0011" x="3435" y="0" width="365" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0012" x="3435" y="0" width="365" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Down0013" x="3435" y="0" width="365" height="329" frameX="-15" frameY="0" frameWidth="404" frameHeight="333"/>
+	<SubTexture name="Crewmate Idle0000" x="0" y="332" width="426" height="403"/>
+	<SubTexture name="Crewmate Idle0001" x="426" y="332" width="421" height="403" frameX="-2" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0002" x="847" y="332" width="416" height="403" frameX="-3" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0003" x="1263" y="332" width="413" height="403" frameX="-3" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0004" x="1676" y="332" width="410" height="403" frameX="-4" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0005" x="2086" y="332" width="407" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0006" x="2493" y="332" width="405" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0007" x="2898" y="332" width="404" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0008" x="3302" y="332" width="403" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0009" x="0" y="735" width="403" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0010" x="0" y="735" width="403" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0011" x="0" y="735" width="403" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0012" x="0" y="735" width="403" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Idle0013" x="0" y="735" width="403" height="403" frameX="-5" frameY="0" frameWidth="426" frameHeight="403"/>
+	<SubTexture name="Crewmate Left0000" x="403" y="735" width="404" height="403" frameX="0" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0001" x="807" y="735" width="401" height="403" frameX="-7" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0002" x="1208" y="735" width="400" height="404" frameX="-12" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0003" x="1608" y="735" width="397" height="404" frameX="-17" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0004" x="2005" y="735" width="395" height="403" frameX="-21" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0005" x="2400" y="735" width="393" height="403" frameX="-24" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0006" x="2793" y="735" width="392" height="403" frameX="-26" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0007" x="3185" y="735" width="391" height="403" frameX="-28" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0008" x="3576" y="735" width="391" height="403" frameX="-29" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0009" x="0" y="1139" width="391" height="403" frameX="-29" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0010" x="0" y="1139" width="391" height="403" frameX="-29" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0011" x="0" y="1139" width="391" height="403" frameX="-29" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0012" x="0" y="1139" width="391" height="403" frameX="-29" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Left0013" x="0" y="1139" width="391" height="403" frameX="-29" frameY="0" frameWidth="420" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0000" x="391" y="1139" width="437" height="403" frameX="-2" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0001" x="828" y="1139" width="429" height="404" frameX="-2" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0002" x="1257" y="1139" width="422" height="404" frameX="-1" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0003" x="1679" y="1139" width="415" height="404" frameX="-1" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0004" x="2094" y="1139" width="410" height="404" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0005" x="2504" y="1139" width="405" height="404" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0006" x="2909" y="1139" width="401" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0007" x="3310" y="1139" width="398" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0008" x="0" y="1543" width="396" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0009" x="396" y="1543" width="396" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0010" x="396" y="1543" width="396" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0011" x="396" y="1543" width="396" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0012" x="396" y="1543" width="396" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Right0013" x="396" y="1543" width="396" height="403" frameX="0" frameY="0" frameWidth="439" frameHeight="404"/>
+	<SubTexture name="Crewmate Up0000" x="792" y="1543" width="450" height="484" frameX="0" frameY="0" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0001" x="1242" y="1543" width="452" height="479" frameX="-4" frameY="-6" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0002" x="1694" y="1543" width="453" height="476" frameX="-7" frameY="-10" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0003" x="2147" y="1543" width="454" height="472" frameX="-9" frameY="-14" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0004" x="2601" y="1543" width="454" height="469" frameX="-11" frameY="-17" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0005" x="3055" y="1543" width="454" height="467" frameX="-12" frameY="-20" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0006" x="3509" y="1543" width="452" height="465" frameX="-14" frameY="-22" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0007" x="0" y="2027" width="451" height="464" frameX="-15" frameY="-23" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0008" x="451" y="2027" width="452" height="463" frameX="-15" frameY="-24" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0009" x="903" y="2027" width="451" height="462" frameX="-16" frameY="-25" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0010" x="903" y="2027" width="451" height="462" frameX="-16" frameY="-25" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0011" x="903" y="2027" width="451" height="462" frameX="-16" frameY="-25" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0012" x="903" y="2027" width="451" height="462" frameX="-16" frameY="-25" frameWidth="467" frameHeight="487"/>
+	<SubTexture name="Crewmate Up0013" x="903" y="2027" width="451" height="462" frameX="-16" frameY="-25" frameWidth="467" frameHeight="487"/>
+</TextureAtlas>

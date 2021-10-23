@@ -4144,9 +4144,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "pico",
+		"player2": "nonsense",
 		"player3": "gf",
 		"song": "Humorous",
+		"stage": "nonsnes",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 120,
